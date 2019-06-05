@@ -13,7 +13,7 @@ Let's imagine a very stressful situation. Your manager comes to you and says:
 > Hi there, we're looking to present a report to investors. If we get this
 > investment, we'll all be millionaires. If we don't get this investment, we're
 > going to have to close down the company. The key to success is going to be a
-> report that **you** are going to manage. Two things will make it stand out:
+> report that **you** are going to manage. Three things will make it stand out:
 >
 > 1. It must be absolutely correct: no errors, no typos, the math has to check
 >    out in every figure.
@@ -88,8 +88,8 @@ report is as current as possible and absolutely, positively, correct. You might
 think this manager is a jerk or that these expectations are unreasonable. Maybe
 this could be possible with _one_ writer, not _four_.
 
-But the expectations that manager gave you for the report is ***the exact same
-expectation we have for code***. It should be as good as possible, absolutely
+But the expectations that manager gave you for the report are ***the exact same
+expectations we have for code***. It should be as good as possible, absolutely
 correct, and ready to ship to users at a moments' notice.
 
 The great news is that _all_ the manual work you had to do (and so much more!)
@@ -126,7 +126,7 @@ old code. **VCS helps us be unafraid to try new and improved techniques**.
 > notes that oil paints unlocked a revolution in experimentation in visual arts
 > because they were undo-able. Because of the **freedom** that oils provided,
 > Italian Renaissance painters were able to create the revolutions in constructing
-> painting that made the leaps of the renaissance so important. Read more in his
+> paintings that made the leaps of the Renaissance so important. Read more in his
 > essay ["Hackers and Painters."][hp]
 
 ## Identify Benefits of Version Control Systems
